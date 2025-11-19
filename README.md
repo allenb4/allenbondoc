@@ -67,16 +67,16 @@ const allen = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allenb4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenb4&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## ⚡ Activity Graph
-[![Allen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Allen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=allenb4&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=allenb4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ## 💼 Professional Experience Highlights
@@ -123,17 +123,16 @@ const allen = {
 <div align="center">
   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bondocallen18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/allen-jasper-bondoc-449195204/))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenb4)
 
 </div>
 
 ## 📊 Profile Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=allenb4&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/allenb4?label=Followers&style=social" alt="followers" />
 </div>
 
 ---
@@ -146,6 +145,6 @@ const allen = {
   
 ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)**
+**⭐️ From [allenb4](https://github.com/allenb4)**
 
 </div>
